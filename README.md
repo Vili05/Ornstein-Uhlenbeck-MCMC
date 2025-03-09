@@ -6,4 +6,4 @@ dX_{t} = -\theta X_{t} dt + \sigma dW_{t},
 ```
 where $\theta$ and $\sigma$ are the parameters to estimate. $W_{t}$ is a Wiener process.
 
-In the "Ornstein-Uhlenbeck_MCMC.pdf" you can see the written report of the assignment where I have presented all the results of the estimations. The MATLAB code is in a file "Ornstein_Uhlenbeck_MCMC.m".
+In the "Ornstein-Uhlenbeck_MCMC.pdf" you can see the written report of the assignment where I have presented all the results of the estimations. The MATLAB code is in a file "Ornstein_Uhlenbeck_MCMC.m". The implementations of the algorithms in the assigment was done by myself meaning that no MATLAB toolboxes were used.
