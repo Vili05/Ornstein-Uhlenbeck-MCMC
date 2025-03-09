@@ -1,6 +1,6 @@
 # Ornstein-Uhlenbeck process + DRAM MCMC
 
-This project was an assignment in the course Statistical Parameter Estimation. In the assignment I estimated parameters from the Ornstein-Uhlenbeck process with Delayed Rejection Adaptive Markov Chain Monte Carlo algorithm. The process can be expressed as follows
+This project was an assignment in the course Statistical Parameter Estimation. In the assignment I estimated parameters from the Ornstein-Uhlenbeck process with Delayed Rejection Adaptive Metropolis Markov Chain Monte Carlo algorithm. The process can be expressed as follows
 ```math
 dX_{t} = -\theta X_{t} dt + \sigma dW_{t},
 ```
